@@ -1,10 +1,3 @@
-//
-//  FitnessAppApp.swift
-//  FitnessApp
-//
-//  Created by Ismat Samadov on 22.09.24.
-//
-
 import SwiftUI
 import SwiftData
 
